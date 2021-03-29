@@ -29,7 +29,7 @@ If you find this paper useful in your research, please consider citing:
 author={Jiyang Xie and Zhanyu Ma and Guoqiang Zhang and Jing-Hao Xue and Zheng-Hua Tan and Jun Guo}, 
 journal={Arxiv preprint, arXiv:2010.05244}, 
 title={Advanced Dropout: A Model-free Methodology for Bayesian Dropout Optimization}, 
-year={2020}, } 
+year={2020}} 
 ```
 
 ## Contact
