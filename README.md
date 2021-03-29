@@ -10,7 +10,7 @@ Code release for Advanced Dropout: A Model-free Methodology for Bayesian Dropout
 	+ Advanced dropout
 
 ## Dataset
-### CIFAR-10
+### CIFAR-10 (and others)
 
 ## Requirements
 
@@ -25,7 +25,7 @@ Code release for Advanced Dropout: A Model-free Methodology for Bayesian Dropout
 ## Citation
 If you find this paper useful in your research, please consider citing:
 ```
-@ARTICLE{9005389, 
+@ARTICLE{xie2020advanced, 
 author={Jiyang Xie and Zhanyu Ma and Guoqiang Zhang and Jing-Hao Xue and Zheng-Hua Tan and Jun Guo}, 
 journal={Arxiv preprint, arXiv:2010.05244}, 
 title={Advanced Dropout: A Model-free Methodology for Bayesian Dropout Optimization}, 
