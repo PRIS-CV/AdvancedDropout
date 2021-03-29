@@ -17,10 +17,11 @@ Code release for Advanced Dropout: A Model-free Methodology for Bayesian Dropout
 - python >= 3.6
 - PyTorch >= 1.1.0
 - torchvision >= 0.3.0
+- GPU memory >= 3500MiB (GTX 1080Ti)
 
 ## Training
 - Download datasets
-- Train: `main.py`
+- Train and evaluate: `python main.py` or use nohup `nohup python main.py >1.out 2>&1 &`
 
 ## Citation
 If you find this paper useful in your research, please consider citing:
