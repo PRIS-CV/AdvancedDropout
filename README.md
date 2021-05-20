@@ -1,5 +1,5 @@
 # AdvancedDropout
-Code release for Advanced Dropout: A Model-free Methodology for Bayesian Dropout Optimization [ArXiv](https://arxiv.org/abs/2010.05244 "ArXiv")
+Code release for Advanced Dropout: A Model-free Methodology for Bayesian Dropout Optimization, accepted by IEEE TPAMI [ArXiv](https://arxiv.org/abs/2010.05244 "ArXiv")
 
 ## Code List
 + main.py
