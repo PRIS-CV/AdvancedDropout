@@ -1,5 +1,5 @@
 # AdvancedDropout
-Code release for Advanced Dropout: A Model-free Methodology for Bayesian Dropout Optimization, accepted by IEEE TPAMI [ArXiv](https://arxiv.org/abs/2010.05244 "ArXiv")
+Advanced Dropout: A Model-free Methodology for Bayesian Dropout Optimization (IEEE TPAMI 2021) [IEEE](https://ieeexplore.ieee.org/document/9439951 "IEEE") [ArXiv](https://arxiv.org/abs/2010.05244 "ArXiv")
 
 ## Code List
 + main.py
@@ -25,11 +25,13 @@ Code release for Advanced Dropout: A Model-free Methodology for Bayesian Dropout
 ## Citation
 If you find this paper useful in your research, please consider citing:
 ```
-@misc{xie2020advanced, 
-author={Jiyang Xie and Zhanyu Ma and Guoqiang Zhang and Jing-Hao Xue and Zheng-Hua Tan and Jun Guo}, 
-title={Advanced Dropout: A Model-free Methodology for Bayesian Dropout Optimization}, 
-eprint={2010.05244}, 
-archivePrefix={arXiv}, 
-primaryClass={cs.LG}, 
-year={2020}} 
+@ARTICLE{9439951,
+  author={Xie, Jiyang and Ma, Zhanyu and Lei, Jianjun and Zhang, Guoqiang and Xue, Jing-Hao and Tan, Zheng-Hua and Guo, Jun},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Advanced Dropout: A Model-free Methodology for Bayesian Dropout Optimization}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TPAMI.2021.3083089}}
 ```
