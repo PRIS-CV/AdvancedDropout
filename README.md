@@ -1,5 +1,5 @@
 # AdvancedDropout
-Advanced Dropout: A Model-free Methodology for Bayesian Dropout Optimization (IEEE TPAMI 2021) [IEEE Xplore](https://ieeexplore.ieee.org/document/9439951 "IEEE Xplore") [ArXiv](https://arxiv.org/abs/2010.05244 "ArXiv")
+Advanced Dropout: A Model-free Methodology for Bayesian Dropout Optimization (IEEE TPAMI 2021) [IEEE Xplore](https://ieeexplore.ieee.org/document/9439951 "IEEE Xplore") or [ArXiv](https://arxiv.org/abs/2010.05244 "ArXiv")
 
 ## Code List
 + main.py
